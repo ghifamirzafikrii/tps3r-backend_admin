@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//workspace/tps3r-admin/**)",
+      "Bash(npm run *)",
+      "Read(//Users/priya/vela/vela-workspace/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/src/components/**)",
+      "Read(//c/Users/priya/vela/vela-workspace/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/src/components/**)",
+      "Read(//Users/priya/vela/vela-workspace/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/src/layouts/**)",
+      "Read(//c/Users/priya/vela/vela-workspace/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/src/layouts/**)",
+      "Read(//Users/priya/vela/vela-workspace/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/src/pages/**)",
+      "Read(//c/Users/priya/vela/vela-workspace/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/vela-prod-16922-1024-0-52a0ddc2-4d04-49d0-80d4-7ac8e6f2d9a8-x/src/pages/**)",
+      "Bash(npm show *)",
+      "Bash(npm view *)",
+      "Bash(npm ls *)"
+    ]
+  }
+}
